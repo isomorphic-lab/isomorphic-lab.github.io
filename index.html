@@ -1,22 +1,122 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<title>Isomorphic</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Isomorphic Labs</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Georgia&display=swap" rel="stylesheet">
 </head>
+<style>
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
+body {
+  font-family: 'Georgia', serif;
+  background-color: #ffffff;
+  color: #000;
+  line-height: 1.6;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #f0f0f0;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #ccc;
+}
+
+.nav-logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+}
+
+.nav-links li a {
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+
+/* Container */
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.content h1 {
+  margin-bottom: 20px;
+}
+
+.content p {
+  margin-bottom: 20px;
+}
+
+/* Footer */
+footer {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-top: 1px solid #ccc;
+  text-align: center;
+}
+
+.footer-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.social-links a {
+  margin: 0 8px;
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+</style>
 <body>
-<h1>Isomorphic</h1>
+  <header>
+    <nav class="navbar">
+      <div class="nav-logo">Isomorphic</div>
+      <ul class="nav-links">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Research</a></li>
+        <li><a href="#">Team</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
 
-<p>Isomorphic Labs is an AI research laboratory dedicated to understanding how artificial intelligence systems actually work. While most AI research focuses on building more powerful models, we're focused on opening the "black box", figuring out what's happening inside these systems and why they make the decisions they do.</p> <br>
+  <main class="container">
+    <section class="content">
+      <h1>Isomorphic</h1>
+      <p>Isomorphic Labs is an AI research laboratory dedicated to understanding how artificial intelligence systems actually work. While most AI research focuses on building more powerful models, we're focused on opening the "black box", figuring out what's happening inside these systems and why they make the decisions they do.</p>
 
-<p>We use mechanistic interpretability techniques to study AI systems from the inside out. This means we don't just look at inputs and outputs, but dive deep into the internal computations, neural activations, and information processing pathways that drive AI behavior.
+      <p>We use mechanistic interpretability techniques to study AI systems from the inside out. This means we don't just look at inputs and outputs, but dive deep into the internal computations, neural activations, and information processing pathways that drive AI behavior. Think of it like neuroscience for artificial minds. Just as neuroscientists study brain circuits to understand human cognition, we study the "circuits" in AI systems to understand machine intelligence.</p>
+    </section>
+  </main>
 
-Think of it like neuroscience for artificial minds. Just as neuroscientists study brain circuits to understand human cognition, we study the "circuits" in AI systems to understand machine intelligence.
-
-</p>
-
-<footer style="text-align: center; padding: 1em;">
-  © Isomorphic
-</footer>
-
+  <footer>
+    <div class="footer-content">
+      <p>&copy; Isomorphic Labs</p>
+      <div class="social-links">
+        <a href="#">Facebook</a> |
+        <a href="#">X</a> |
+        <a href="#">Email</a> |
+        <a href="#">LinkedIn</a> |
+        <a href="#">YouTube</a>
+      </div>
+    </div>
+  </footer>
 </body>
 </html>
