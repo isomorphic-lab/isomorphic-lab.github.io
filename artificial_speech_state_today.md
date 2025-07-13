@@ -88,9 +88,9 @@ Electrolarynx already works on vibration --> Speech (so this part is out of doub
 
 Reason it is bad is because of fixed frequency (80-150Hz). 
 
-To reason phoneme patterns and generating dynamic frequency (80-300Hz) work for more natural and rythmic speech?
+To reason phoneme patterns and generate dynamic frequency (80-300Hz) work for more natural and rythmic speech?
 
-If Yes --> AI can be deployed to reason haptic enviornment and deliver outputs using actuators.
+If Yes --> AI can be deployed to reason haptic enviornment and deliver output using actuators.
 
 If No --> Someone can control frequency using Resistance, but that is boring and tough to scale and not doable. 
 
