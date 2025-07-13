@@ -15,6 +15,8 @@
 
 Adults who lose speech ability after stroke or vocal cord surgery face significant communication barriers. Existing solutions provide poor speech quality and user experience, leading to social isolation and reduced quality of life.
 
+**Current solutions are antiquated, invasive, and fail to meet users' fundamental need for natural communication.**
+
 ## Solution
 
 Create **Resonance**, an AI-prosodic generator that translates laryngeal muscle signals into prosodic vibrations. User's mouth and lip movement become filters, transforming these vibrations into audible, natural sounding speech.
@@ -22,7 +24,7 @@ Create **Resonance**, an AI-prosodic generator that translates laryngeal muscle 
 ## USP of Resonance
 
 1. **Non-invasive** - No surgical procedures required
-2. **Gets better with usage** - Adaptive learning improves performance over time
+2. **Gets better with usage** - Adaptive learning improves performance over time  
 3. **Affordable** - Cost-effective compared to device and surgery costs
 4. **Empowers self-expression** - Enables natural communication and social interaction
 
@@ -40,48 +42,77 @@ AI-controlled actuator system for precise prosody generation, creating the found
 ### iv. Speech Generation
 Mouth and lip movements translate prosody into audible speech, leveraging the user's natural articulation mechanisms for natural-sounding output.
 
-
 ## Why Build It?
 
 ### i. Business POV
-High CLTV. Customers of existing solution reported 7+ years of usage, paid. In plain english -- loyal customers who will use it till their demise.
-
+High CLTV. Customers of existing solutions reported 7+ years of usage, paid. In plain english -- loyal customers who will use it till their demise.
 
 ### ii. Positioning POV
-Not at **center-of-gravity** of BigTech. Except Neuralink. Both Tech & Data wise. Already have distribution-network and Sales pipeline to sell.
+
+Established distribution networks and sales pipelines already exist providing clear market access.
 
 ### iii. Technical POV
-Grounded human-machine interface deployment while maintaining biological autonomy. Real-time unique data generation with usage. Chance to train novel ML Model with limited resource. Opens path to further experiments into vision, hearing, neurodivergence etc. 
+Grounded human-machine interface deployment while maintaining biological autonomy. Each user interaction generates unique, real-time data that continuously improves our ML models with minimal computational resources. This foundational technology platform opens pathways for expansion into other stuff.
 
-### iv. Ego POV
-Challenges God & inevitability.
+### iv. Impact POV
+Just watch [this](https://youtu.be/oHm4zF3UJ9k?si=sPd-liJK62vrfVq_) & imagine them instead talking about you. **This is after prosthesis, they paid 5-digit USD with 3-4 digit USD in continuity care every year.**
 
-### v. Impact POV
+### v. Personal POV
+Reduces role of chance in postmodern human life. (challenges god?)
 
-Just watch [this] (https://youtu.be/oHm4zF3UJ9k?si=sPd-liJK62vrfVq_) & imagine them instead talking about you. **this is after prosthesis, they paid 5-digit USD with 3to4 Digit USD in contunity care every year.**
+
+## Stats & Market Size
+
+**Primary Market: Laryngectomy**
+- At least 200,000 new laryngectomy userbase generated every year annually (immediate market)
+- XXMn already living with it
+- Users report 7+ years of continuous, paid usage (high CLTV)
+
+**Secondary Market: Neurological Speech Impairment**
+- 30-40% Stroke patients → Speech Impaired
+- ~11Mn new stroke cases annually (70% increase since 1990)
+
+**Annual Incidence (Other Conditions)**
+
+● **Intubation-related laryngeal injury** - ~50% of ICU intubees experience injury
+
+● **Tracheostomy complications** - Voice-affecting complications in ~20–40% of cases
+
+● **Nerve injury in thyroid surgery** - 0.3–3% transient; up to ~1% permanent
+
+● **Voice impact post-head/neck cancer** - ~50% survivors report dysfunction
+
+● **Burns & inhalation injuries** - 16–60% face long-term vocal effects
+
+● **Blunt airway trauma** - ~0.3–5% incidence in trauma patients
+
+● **Stroke-related dysarthria** - Affects a large share of ~11M strokes/year globally
+
+**Conservative TAM: $2.5B+ annually**
+
+## Competitive Landscape
+
+### Current Solutions Suck
+- **Voice Prostheses**: Invasive, require surgery, high maintenance
+- **Electrolarynx**: Robotic sound, social stigma, limited expressiveness
+- **Esophageal Speech**: Difficult to learn, limited volume, takes months to master
 
 
-## Stats & Catchup
 
-Atleast 200,000 new laryngectomy userbase generated every year annually (immediate market) with XXMn already living with it. 
+### Architecture Overview
+```
+Laryngeal Muscle Signals → Sensors → Neural Network → Actuator → Prosodic Vibrations → User's Mouth/Lips → Natural Speech
+```
 
-30-40% Stroke patients --> Speech Impaired
-~ 11Mn new stroke cases annually (70% increase since 1990)
+### Hypothesis
 
-Annual Incidence (else)
+Electrolarynx already works on vibration --> Speech (so this part is out of doubt) 
 
-● Intubation‑related laryngeal injury	~50% of ICU intubees experience injury
+Reason it is bad is because of fixed frequency (80-150Hz). 
 
-● Tracheostomy complications	Voice-affecting complications in ~20–40% of cases
+To reason phoneme patterns and generating dynamic frequency (80-300Hz) work for more natural and rythmic speech?
 
-● Nerve injury in thyroid surgery	0.3–3% transient; up to ~1% permanent
+If Yes --> AI can be deployed to reason haptic enviornment and deliver outputs using actuators.
 
-● Voice impact post-head/neck cancer	~50% survivors report dysfunction
-
-● Burns & inhalation injuries	16–60% face long-term vocal effects
-
-● Blunt airway trauma	~0.3–5% incidence in trauma patients
-
-● Stroke-related dysarthria	Affects a large share of ~11 M strokes/year globally
-
+If No --> Someone can control frequency using Resistance, but that is boring and tough to scale and not doable. 
 
