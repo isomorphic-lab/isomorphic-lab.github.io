@@ -53,7 +53,7 @@ Just watch [this](https://youtu.be/oHm4zF3UJ9k?si=sPd-liJK62vrfVq_). **This is a
 
 **Primary Market: Laryngectomy**
 - At least 200,000 new laryngectomy userbase generated every year annually (immediate market)
-- XXMn already living with it
+- ~750K + already living with it in USA alone.
 - Users report 7+ years of continuous, paid usage (high CLTV)
 
 **Secondary Market: Neurological Speech Impairment**
