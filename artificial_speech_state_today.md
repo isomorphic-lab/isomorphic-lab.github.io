@@ -46,10 +46,7 @@ Established distribution networks and sales pipelines already exist providing cl
 Grounded human-machine interface deployment while maintaining biological autonomy. Each user interaction generates unique, real-time data that continuously improves our ML models with minimal computational resources. This foundational technology platform opens pathways for expansion into other stuff.
 
 ### iv. Impact POV
-Just watch [this](https://youtu.be/oHm4zF3UJ9k?si=sPd-liJK62vrfVq_) & imagine them instead talking about you. **This is after prosthesis, they paid 5-digit USD with 3-4 digit USD in continuity care every year.**
-
-### v. Personal POV
-Reduces role of chance in postmodern human life. (challenges god?)
+Just watch [this](https://youtu.be/oHm4zF3UJ9k?si=sPd-liJK62vrfVq_). **This is after prosthesis, they paid 5-digit USD with 3-4 digit USD in continuity care every year.**
 
 
 ## Stats & Market Size
