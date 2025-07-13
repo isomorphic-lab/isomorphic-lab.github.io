@@ -94,3 +94,25 @@ If Yes --> AI can be deployed to reason haptic enviornment and deliver output us
 
 If No --> Someone can control frequency using Resistance, but that is boring and tough to scale and not doable. 
 
+
+### Why a software/App will suck?
+
+I already tried it, built it & shipped it. 
+
+11labs + Voice Clone + Twilio = Conversational AI Agent 
+
+## Demo of this
+[View Resonance Potential](https://drive.google.com/file/d/1EgorI2azDlFgtXu3mQayFJLDJ2fJesm9/view?usp=drivesdk)
+
+
+This is bad because its more of <i>voice outsourcing</i> than empowerment. Secondly, we live in a text-first world. Would rather text than use AI call. Not much usage et all (for day to to day conversation, even to order food, can use zomato no need of us at all).
+
+### Coolest Part
+
+8Mn+ people in demand of (any kind) speech rehabilitation. 
+
+Only ~ 2500 registered SLPs (speech language pathologists in India) off which 80-90% work only with children.
+
+So for Adults, <500 SLPs. Huge demand-supply gap.
+
+
