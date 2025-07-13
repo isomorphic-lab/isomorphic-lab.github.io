@@ -60,24 +60,6 @@ Just watch [this](https://youtu.be/oHm4zF3UJ9k?si=sPd-liJK62vrfVq_). **This is a
 - 30-40% Stroke patients → Speech Impaired
 - ~11Mn new stroke cases annually (70% increase since 1990)
 
-**Annual Incidence (Other Conditions)**
-
-● **Intubation-related laryngeal injury** - ~50% of ICU intubees experience injury
-
-● **Tracheostomy complications** - Voice-affecting complications in ~20–40% of cases
-
-● **Nerve injury in thyroid surgery** - 0.3–3% transient; up to ~1% permanent
-
-● **Voice impact post-head/neck cancer** - ~50% survivors report dysfunction
-
-● **Burns & inhalation injuries** - 16–60% face long-term vocal effects
-
-● **Blunt airway trauma** - ~0.3–5% incidence in trauma patients
-
-● **Stroke-related dysarthria** - Affects a large share of ~11M strokes/year globally
-
-**Conservative TAM: $2.5B+ annually**
-
 
 ### Hypothesis
 
