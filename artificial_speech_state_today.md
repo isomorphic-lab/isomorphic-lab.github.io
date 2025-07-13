@@ -8,8 +8,6 @@
 ### Electrolarynx
 [View Electrolarynx State](https://drive.google.com/file/d/1EczeOOBIwngx5oHyzh7eK3IvV_FUtL4N/view?usp=drivesdk)
 
-### Resonance Potential
-[View Resonance Potential](https://drive.google.com/file/d/1EgorI2azDlFgtXu3mQayFJLDJ2fJesm9/view?usp=drivesdk)
 
 ## Problem
 
@@ -30,7 +28,7 @@ Create **Resonance**, an AI-prosodic generator that translates laryngeal muscle 
 
 ### Architecture Overview
 ```
-Laryngeal Muscle Signals → Sensors → Neural Network → Actuator → Prosodic Vibrations → User's Mouth/Lips → Natural Speech
+Laryngeal Muscle Signals → Sensors → Neural Network → Actuator → Prosodic Vibrations → User's Mouth/Lips → Natural Speech```
 
 
 
