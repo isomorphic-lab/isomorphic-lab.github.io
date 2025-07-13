@@ -51,12 +51,12 @@ Just watch [this](https://youtu.be/oHm4zF3UJ9k?si=sPd-liJK62vrfVq_). **This is a
 
 ## Stats & Market Size
 
-**Primary Market: Laryngectomy**
+**Immediate Market: Laryngectomy**
 - At least 200,000 new laryngectomy userbase generated every year annually (immediate market)
-- ~750K + already living with it in USA alone.
+- ~750K + already living with it.
 - Users report 7+ years of continuous, paid usage (high CLTV)
 
-**Secondary Market: Neurological Speech Impairment**
+**Secondary Market: Post stroke Speech Impairment**
 - 30-40% Stroke patients → Speech Impaired
 - ~11Mn new stroke cases annually (70% increase since 1990)
 
