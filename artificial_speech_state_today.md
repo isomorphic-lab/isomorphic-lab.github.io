@@ -28,7 +28,8 @@ Create **Resonance**, an AI-prosodic generator that translates laryngeal muscle 
 
 ### Architecture Overview
 ```
-Laryngeal Muscle Signals → Sensors → Neural Network → Actuator → Prosodic Vibrations → User's Mouth/Lips → Natural Speech```
+Laryngeal Muscle Signals → Sensors → Neural Network → Actuator → Prosodic Vibrations → User's Mouth/Lips → Natural Speech
+```
 
 
 
