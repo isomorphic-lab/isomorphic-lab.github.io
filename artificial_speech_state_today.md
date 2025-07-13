@@ -43,7 +43,7 @@ High CLTV. Customers of existing solutions reported 7+ years of usage, paid. In 
 Established distribution networks and sales pipelines already exist providing clear market access.
 
 ### iii. Technical POV
-Grounded human-machine interface deployment while maintaining biological autonomy. Each user interaction generates unique, real-time data that continuously improves our ML models with minimal computational resources. This foundational technology platform opens pathways for expansion into other stuff.
+Grounded human-machine interface deployment while maintaining biological autonomy. Each user interaction generates unique, real-time data that continuously improves our ML models with minimal computational resources. 
 
 ### iv. Impact POV
 Just watch [this](https://youtu.be/oHm4zF3UJ9k?si=sPd-liJK62vrfVq_). **This is after prosthesis, they paid 5-digit USD with 3-4 digit USD in continuity care every year.**
