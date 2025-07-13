@@ -28,19 +28,11 @@ Create **Resonance**, an AI-prosodic generator that translates laryngeal muscle 
 3. **Affordable** - Cost-effective compared to device and surgery costs
 4. **Empowers self-expression** - Enables natural communication and social interaction
 
-## Technical Breakdown of Resonance
+### Architecture Overview
+```
+Laryngeal Muscle Signals → Sensors → Neural Network → Actuator → Prosodic Vibrations → User's Mouth/Lips → Natural Speech
 
-### i. Sensors
-Track muscle movements using mixed materials for optimal signal detection and comfort.
 
-### ii. Neural Network
-Translates muscle signals into phoneme patterns using on-device artificial intelligence for real-time processing.
-
-### iii. Actuator
-AI-controlled actuator system for precise prosody generation, creating the foundation for speech synthesis.
-
-### iv. Speech Generation
-Mouth and lip movements translate prosody into audible speech, leveraging the user's natural articulation mechanisms for natural-sounding output.
 
 ## Why Build It?
 
@@ -90,19 +82,6 @@ Reduces role of chance in postmodern human life. (challenges god?)
 
 **Conservative TAM: $2.5B+ annually**
 
-## Competitive Landscape
-
-### Current Solutions Suck
-- **Voice Prostheses**: Invasive, require surgery, high maintenance
-- **Electrolarynx**: Robotic sound, social stigma, limited expressiveness
-- **Esophageal Speech**: Difficult to learn, limited volume, takes months to master
-
-
-
-### Architecture Overview
-```
-Laryngeal Muscle Signals → Sensors → Neural Network → Actuator → Prosodic Vibrations → User's Mouth/Lips → Natural Speech
-```
 
 ### Hypothesis
 
