@@ -56,6 +56,10 @@ Grounded human-machine interface deployment while maintaining biological autonom
 ### iv. Ego POV
 Challenges God & inevitability.
 
+### v. Impact POV
+
+Just watch [this] (https://youtu.be/oHm4zF3UJ9k?si=sPd-liJK62vrfVq_) & imagine them instead talking about you. **this is after prosthesis, they paid 5-digit USD with 3to4 Digit USD in contunity care every year.
+
 
 ## Stats & Catchup
 
